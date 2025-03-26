@@ -36,10 +36,10 @@ function App() {
         <div className="container mx-auto px-4 py-3 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="h-8 w-8 rounded-lg bg-gradient-to-br from-primary to-secondary flex items-center justify-center text-white font-bold text-lg">
-              TF
+              AP
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              TaskForge
+              Apper Project Dashboard
             </span>
           </div>
 
@@ -135,7 +135,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
               <p className="text-surface-600 dark:text-surface-400 text-sm">
-                &copy; {new Date().getFullYear()} TaskForge. All rights reserved.
+                &copy; {new Date().getFullYear()} Apper Project Dashboard. All rights reserved.
               </p>
             </div>
             <div className="flex space-x-4">
